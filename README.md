@@ -42,4 +42,4 @@ forge build
 forge test
 ```
 
-See the test files for examples of use.
+See the test files for examples of use. Alternatively, there is a [python script](./bitfields.py) that you can run to show how the binary operations look like for 32 bits of data.
